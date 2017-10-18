@@ -1,2 +1,2 @@
 # C-Linked-List-
-C programming language linked list algorithm
+Implementation of Linked List written in C.
