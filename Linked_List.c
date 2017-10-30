@@ -11,7 +11,7 @@ void add_Node(Node**,Node*);    // Dugum ekleme fonksiyonu
 void print_List(Node*);         // Dugumleri yazdirma fonksiyonu
 void del_Node(Node**,Node*);    // Dugum silme fonksiyonu
 void search_Node(Node*);        // Bagli listede arama yapan fonksiyon
-void rand_five(Node**,Node*);
+void rand_five(Node**,Node*);   // Listenin başına 5 adet rastegele düğüm ekleyen fonksiyon
 
 int main(){
     srand (time(NULL));
