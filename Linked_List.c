@@ -1,3 +1,6 @@
+// Written by Utku Darilmaz
+// Contact adress: utkudarilmaz@gmail.com
+
 #include "stdio.h"
 #include <stdlib.h>
 #include <time.h>
